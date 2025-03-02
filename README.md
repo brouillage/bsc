@@ -47,11 +47,6 @@
  <br>
   </p>
 
- <p align="right">
-     <br> ${\textsf{\color{#582a68}  .ᐟ art by ekajrdmaG on X}}$ 
- <br>
-  </p>
-
 <p align="center">
 <img src=https://github.com/user-attachments/assets/5ab87487-459c-4076-a164-87017a6676d8>
 </p>
