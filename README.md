@@ -59,5 +59,5 @@
  <img src="https://komarev.com/ghpvc/?username=brouillage&color=582a68&style=plastic&label=♱+I+see+you+;>+♱"/>
 <p align="center">
 
-
+![Без названия7_20250303051752](https://github.com/user-attachments/assets/3e26aace-4842-4fe0-94d7-649412122dc1)
 
